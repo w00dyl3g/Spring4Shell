@@ -6,9 +6,11 @@ A remote attacker can obtain an AccessLogValve object through the framework’s 
 
 
 ## Working Spring4Shell Proof Of Concept
-
+Creating jsp web shell:
 ![Step1](/01_.jpeg)
+Checking file existence:
 ![Step2](/02_.jpeg)
+Triggering RCE:
 ![Step3](/03_.jpeg)
 
 ## REF
