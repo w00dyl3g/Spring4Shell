@@ -1,5 +1,11 @@
 # Spring4Shell
-Working Spring4Shell Proof Of Concept
+
+## VULNERABILITY DESCRIPTION
+Spring4Shell is a critical vulnerability that has been reported in the most widely used lightweight open source framework Spring.
+A remote attacker can obtain an AccessLogValve object through the framework’s parameter binding feature and use malicious field values to trigger the pipeline mechanism and write to a file in an arbitrary path. The full-chain attack ends with  triggering remote command execution with new crafted jsp files. 
+
+
+## Working Spring4Shell Proof Of Concept
 
 ![Step1](/01_.jpeg)
 ![Step2](/02_.jpeg)
