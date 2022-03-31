@@ -1,4 +1,4 @@
-# Spring4Shell-POC
+# Spring4Shell
 Working Spring4Shell Proof Of Concept
 
 ## REF
