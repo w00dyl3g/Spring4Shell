@@ -44,3 +44,5 @@ find . -name spring*.jar
 poc2 i noticed to be more valid in some situation where the first poc didn't work.
 
 
+## Added value
+the curl one-liner easy spring4shll "scanner" (curl http://host:port/path?class.module.classLoader.URLs%5B0%5D=0) that should return 400 when a vulnerable instance is found has been noticed to be not enough cause some vulnerable endpoints return 200 as http status code and not 400 as suggested on the web.
