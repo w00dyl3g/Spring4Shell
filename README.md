@@ -41,4 +41,6 @@ find . -name spring*.jar
 ```
 
 ## Poc
-Change proxy address :)
+poc2 i noticed to be more valid in some situation where the first poc didn't work.
+
+
